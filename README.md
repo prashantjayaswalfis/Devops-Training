@@ -1,2 +1,2 @@
 # Devops-Training
-#This is release branch - Release 1.0
+#This is hotfix branch
