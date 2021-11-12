@@ -9,7 +9,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		log.info("This is develop branch");
+		log.info("This is feature branch");
 	}
 
 }
